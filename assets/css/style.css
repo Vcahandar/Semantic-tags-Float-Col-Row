@@ -1,0 +1,176 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.row{
+    display: flex;
+}
+
+.col-1{
+    width: 8.33%;
+    background-color: magenta;
+    height: 100px;
+}
+
+.col-2{
+    width: 16.66%;
+   
+}
+
+.col-3{
+    width: 25%;
+
+}
+
+.col-4{
+    width: 33.33%;
+    
+}
+
+.col-5{
+    width: 41.66%;
+    background-color: green;
+    height: 100px;
+}
+
+.col-6{
+    width: 50%;
+   
+}
+
+.col-7{
+    width: 58.33%;
+    background-color: grey;
+    height: 100px;
+}
+
+.col-8{
+    width: 66.66%;
+}
+
+.col-9{
+    width: 75%;
+    background-color: aqua;
+    height: 100px;
+}
+
+.col-10{
+    width: 83.33%;
+    background-color: chocolate;
+    height: 100px;
+}
+
+.col-11{
+    width: 91.66%;
+    background-color: yellow;
+    height: 100px;
+}
+
+.col-12{
+    width: 100%;
+}
+
+/* ----------------col END---------------------------- */
+
+.border{
+    margin:15px;
+    border: 2px solid black;
+
+}
+
+.container{
+    width: 97%;
+}
+
+.header{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 15px auto;
+    
+}
+.banner{
+    background-color: gold;
+    height: 45px;
+}
+
+.box{
+    height: 15px;
+    width: 98%;
+    background-color: black;
+}
+
+#navbar{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 15px auto;
+}
+
+
+
+.left{
+    height: 400px;
+    background-color: gold;
+}
+
+#base{
+    width: 97%;
+    margin: 15px auto;
+}
+
+.right {
+    margin-left: 20px;
+}
+
+.right .up{
+    height: 190px;
+    margin-bottom: 20px;
+    background-color: gold;
+}
+
+.right .down{
+    height: 190px;
+    background-color: gold;
+}
+
+.list-1{
+    height: 64px;
+    background-color: black;
+    margin-left: 15px;
+    margin-bottom: 15px;
+}
+
+.list-2{
+    margin-bottom: 15px;
+    height: 64px;
+    background-color: black;
+    margin-left: 15px;
+}
+
+.list-3{
+    margin-bottom: 15px;
+    height: 64px;
+    background-color: black;
+    margin-left: 15px;
+}
+
+.list-4{
+    margin-bottom: 15px;
+    height: 64px;
+    background-color: black;
+    margin-left: 15px;
+}
+
+.list-5{
+    height: 72px;
+    background-color: black;
+    margin-left: 15px;
+    
+}
+
+
+
+
